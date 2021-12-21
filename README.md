@@ -68,7 +68,7 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 
 ## What I want to do next 🤔
 
----
+
 
 <br/>
 
@@ -80,7 +80,6 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-&logo=markdown)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-&logo=latex&logoColor=ffffff)
 
----
 
 <br/>
 
@@ -92,7 +91,7 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-&logo=bootstrap)
 
----
+
 
 <br/>
 
@@ -113,7 +112,7 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-&logo=NestJS)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
 
----
+
 
 <br/>
 
@@ -128,7 +127,6 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-&logo=microsoft-sql-server&logoColor=ffffff)
 ![Oracle Database](https://img.shields.io/badge/-Oracle-DD0031?style=flat-&logo=oracle)
 
----
 
 <br/>
 
@@ -138,7 +136,7 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow)
 
----
+
 
 <br/>
 
@@ -150,7 +148,6 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-&logo=firebase&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-&logo=heroku)
 
----
 
 <br/>
 
@@ -161,7 +158,7 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![Adobe XD](https://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-&logo=adobe-XD&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-30333c?style=flat-&logo=figma&logoColor=ffffff)
 
----
+
 
 <br/>
 
@@ -169,7 +166,7 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-&logo=adobe-after-effects)
 
----
+
 
 <br/>
 
@@ -181,7 +178,7 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-&logo=github-actions&logoColor=ffffff)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket)
 
----
+
 
 <br/>
 
@@ -190,7 +187,7 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-&logo=wordpress)
 ![Joomla](https://img.shields.io/badge/-Joomla-FC8F30?style=flat-&logo=joomla&logoColor=white)
 
----
+
 
 <br/>
 
@@ -204,7 +201,6 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![Eclipse-IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-&logo=eclipse&logoColor=ffffff)
 ![Powershell](https://img.shields.io/badge/-Powershell-5391FE?style=flat-&logo=powershell&logoColor=ffffff)
 
----
 
 <br/>
 
@@ -213,7 +209,6 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-&logo=Arduino)
 
----
 
 <br/>
 
@@ -229,7 +224,6 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-&logo=Redis)
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-000000?style=flat-&logo=gnu-bash&logoColor=ffffff)
 
----
 
 <!-- TO make screenshot of your code, copy below link:
 https://carbon.now.sh/ -->
