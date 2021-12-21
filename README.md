@@ -12,7 +12,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dolfino)](https://twitter.com/Dolfino)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/davidndasilva92037)](https://ko-fi.com/davidndasilva92037)
 
----
 
 [![](https://img.shields.io/badge/HackerRank-David_N._da_Silva-brightgreen)](https://www.hackerrank.com/davidnascimento2?hr_r=1)
 
@@ -117,8 +116,6 @@ Let's talk! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
 <br/>
 
 ## Data Base <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">
-
-<br/>
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3C4858?style=flat-&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-&logo=mysql)
