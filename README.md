@@ -2,10 +2,6 @@
 
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 
-<div style="text-align: right"> <h2> Spotify Playing 🎧<h2/> </div>
-
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="250" style="float: right; margin-right: 8px;" />](https://open.spotify.com/album/3QttijBl42DhzMDVJNdiQ8?si=M0-7E2mASgipljYWuMjTWg)
-
 ### Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marketing-administrador-davidnsilva/)](https://www.linkedin.com/in/marketing-administrador-davidnsilva/)
